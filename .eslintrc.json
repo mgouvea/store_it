@@ -1,0 +1,14 @@
+{
+  "extends": [
+    // Next.js core web vitals rules
+    "next/core-web-vitals",
+    // TypeScript rules for Next.js
+    "next/typescript",
+    // JavaScript Standard Style guide
+    "standard",
+    // Tailwind CSS plugin recommended settings
+    "plugin:tailwindcss/recommended",
+    // Prettier configuration for code styling
+    "prettier"
+  ]
+}
